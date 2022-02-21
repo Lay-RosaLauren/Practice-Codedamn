@@ -1,0 +1,5 @@
+{
+  "baseUrl": "https://codedamn.com",
+
+  "defaultCommandTimeout": 25000
+}
